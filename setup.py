@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='BottleDaemon',
-    version='0.1.1',
+    version='0.1.3',
     author='Jonathan Hood',
     author_email='me@jonathanhood.org',
     packages=['bottledaemon'],
